@@ -26,7 +26,7 @@ To get started with the Forum App, follow these steps:
 
 ### Running the App
 
-To run the Forum App locally, use the following command:
+To run the Discuss Hub locally, use the following command:
 
 ```bash
    npm run dev
